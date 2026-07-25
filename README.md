@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MridulVerma29/Leetcode/tree/master/0075-sort-colors) |
 | [1920-build-array-from-permutation](https://github.com/MridulVerma29/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/MridulVerma29/Leetcode/tree/master/0290-word-pattern) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MridulVerma29/Leetcode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MridulVerma29/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
