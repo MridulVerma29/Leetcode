@@ -12,7 +12,6 @@ public:
                 sum-=nums[left++];
             }
         }
-        if(ans==INT_MAX) return 0;
-        else return ans;
+        return ans== INT_MAX ? 0:ans;
     }
 };
