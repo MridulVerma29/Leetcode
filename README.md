@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/MridulVerma29/Leetcode/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/MridulVerma29/Leetcode/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/MridulVerma29/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MridulVerma29/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MridulVerma29/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MridulVerma29/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/MridulVerma29/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/MridulVerma29/Leetcode/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/MridulVerma29/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
