@@ -12,12 +12,8 @@ private:
 public:
     int smallestNumber(int n, int t) {
         while(n){
-            if(product(n)%t==0){
-                return n;
-            }
-            else{
-                n++;
-            }
+            if(product(n)%t==0)return n;
+            else n++;
         }
         return 0;
     }
