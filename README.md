@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MridulVerma29/Leetcode/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/MridulVerma29/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MridulVerma29/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/MridulVerma29/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MridulVerma29/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/MridulVerma29/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulVerma29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MridulVerma29/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/MridulVerma29/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/MridulVerma29/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MridulVerma29/Leetcode/tree/master/0011-container-with-most-water) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MridulVerma29/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/MridulVerma29/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MridulVerma29/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/MridulVerma29/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/MridulVerma29/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
