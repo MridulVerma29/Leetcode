@@ -139,16 +139,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Minimax
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/MridulVerma29/Leetcode/tree/master/1510-stone-game-iv) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
