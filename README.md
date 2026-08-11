@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/MridulVerma29/Leetcode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/MridulVerma29/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/MridulVerma29/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MridulVerma29/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/MridulVerma29/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/MridulVerma29/Leetcode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/MridulVerma29/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/MridulVerma29/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MridulVerma29/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MridulVerma29/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/MridulVerma29/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/MridulVerma29/Leetcode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulVerma29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MridulVerma29/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MridulVerma29/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MridulVerma29/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MridulVerma29/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
