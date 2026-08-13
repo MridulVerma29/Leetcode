@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/MridulVerma29/Leetcode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/MridulVerma29/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/MridulVerma29/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MridulVerma29/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MridulVerma29/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/MridulVerma29/Leetcode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulVerma29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MridulVerma29/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MridulVerma29/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MridulVerma29/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Minimax
 |  |
 | ------- |
@@ -204,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
