@@ -52,9 +52,7 @@ public:
         return true;
     }
     Node* solve(vector<vector<int>>grid,int x,int y,int n){
-        if(isallsame(grid,x,y,n)){
-            return new Node(grid[x][y],true);
-        }
+        if(isallsame(grid,x,y,n)) return new Node(grid[x][y],true);
         else{
             Node* root = new Node(1,false);
             root->topLeft=solve(grid,x,y,n/2);
