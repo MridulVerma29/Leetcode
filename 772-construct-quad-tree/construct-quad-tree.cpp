@@ -44,9 +44,7 @@ public:
         int val=grid[x][y];
         for(int i=x;i<x+n;i++){
             for(int j=y;j<y+n;j++){
-                if(grid[i][j]!=val){
-                    return false;
-                }
+                if(grid[i][j]!=val) return false;
             }
         }
         return true;
