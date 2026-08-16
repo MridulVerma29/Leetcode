@@ -62,8 +62,7 @@ public:
             root->bottomLeft=solve(grid,x+n/2,y,n/2);
             root->bottomRight=solve(grid,x+n/2,y+n/2,n/2);
             return root;
-        }
-        
+        }    
     }
     Node* construct(vector<vector<int>>& grid) {
         return solve(grid,0,0,grid.size());
