@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/MridulVerma29/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/MridulVerma29/Leetcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/MridulVerma29/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/MridulVerma29/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/MridulVerma29/Leetcode/tree/master/1510-stone-game-iv) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/MridulVerma29/Leetcode/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/MridulVerma29/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MridulVerma29/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MridulVerma29/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
