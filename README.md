@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MridulVerma29/Leetcode/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/MridulVerma29/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/MridulVerma29/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/MridulVerma29/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/MridulVerma29/Leetcode/tree/master/0290-word-pattern) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/MridulVerma29/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/MridulVerma29/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/MridulVerma29/Leetcode/tree/master/0338-counting-bits) |
