@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/MridulVerma29/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/MridulVerma29/Leetcode/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/MridulVerma29/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/MridulVerma29/Leetcode/tree/master/0134-gas-station) |
 | [0149-max-points-on-a-line](https://github.com/MridulVerma29/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/MridulVerma29/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/MridulVerma29/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/MridulVerma29/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/MridulVerma29/Leetcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/MridulVerma29/Leetcode/tree/master/0486-predict-the-winner) |
