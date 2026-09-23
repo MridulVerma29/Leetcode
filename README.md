@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MridulVerma29/Leetcode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/MridulVerma29/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/MridulVerma29/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/MridulVerma29/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/MridulVerma29/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MridulVerma29/Leetcode/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/MridulVerma29/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/MridulVerma29/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/MridulVerma29/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/MridulVerma29/Leetcode/tree/master/0120-triangle) |
