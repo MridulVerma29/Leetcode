@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/MridulVerma29/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MridulVerma29/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/MridulVerma29/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/MridulVerma29/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MridulVerma29/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MridulVerma29/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/MridulVerma29/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MridulVerma29/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/MridulVerma29/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/MridulVerma29/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MridulVerma29/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
