@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/MridulVerma29/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/MridulVerma29/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/MridulVerma29/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/MridulVerma29/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/MridulVerma29/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/MridulVerma29/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/MridulVerma29/Leetcode/tree/master/0344-reverse-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/MridulVerma29/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/MridulVerma29/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/MridulVerma29/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/MridulVerma29/Leetcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/MridulVerma29/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/MridulVerma29/Leetcode/tree/master/1140-stone-game-ii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/MridulVerma29/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0047-permutations-ii) |
+| [0131-palindrome-partitioning](https://github.com/MridulVerma29/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/MridulVerma29/Leetcode/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MridulVerma29/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
