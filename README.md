@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/MridulVerma29/Leetcode/tree/master/0134-gas-station) |
 | [0149-max-points-on-a-line](https://github.com/MridulVerma29/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MridulVerma29/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/MridulVerma29/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MridulVerma29/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0427-construct-quad-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0427-construct-quad-tree) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MridulVerma29/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MridulVerma29/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/MridulVerma29/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/MridulVerma29/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MridulVerma29/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MridulVerma29/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/MridulVerma29/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/MridulVerma29/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MridulVerma29/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MridulVerma29/Leetcode/tree/master/0200-number-of-islands) |
 | [0427-construct-quad-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0835-image-overlap](https://github.com/MridulVerma29/Leetcode/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MridulVerma29/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -480,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MridulVerma29/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MridulVerma29/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MridulVerma29/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MridulVerma29/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
