@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MridulVerma29/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/MridulVerma29/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0289-game-of-life](https://github.com/MridulVerma29/Leetcode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MridulVerma29/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0427-construct-quad-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/MridulVerma29/Leetcode/tree/master/0463-island-perimeter) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/MridulVerma29/Leetcode/tree/master/0289-game-of-life) |
 | [1920-build-array-from-permutation](https://github.com/MridulVerma29/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/MridulVerma29/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/MridulVerma29/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MridulVerma29/Leetcode/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/MridulVerma29/Leetcode/tree/master/0289-game-of-life) |
 | [0427-construct-quad-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/MridulVerma29/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/MridulVerma29/Leetcode/tree/master/0695-max-area-of-island) |
