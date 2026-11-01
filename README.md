@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/MridulVerma29/Leetcode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MridulVerma29/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0427-construct-quad-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0427-construct-quad-tree) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MridulVerma29/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/MridulVerma29/Leetcode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/MridulVerma29/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/MridulVerma29/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/MridulVerma29/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/MridulVerma29/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MridulVerma29/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MridulVerma29/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/MridulVerma29/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulVerma29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/MridulVerma29/Leetcode/tree/master/0836-rectangle-overlap) |
