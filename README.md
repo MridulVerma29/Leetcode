@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/MridulVerma29/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/MridulVerma29/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/MridulVerma29/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/MridulVerma29/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MridulVerma29/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/MridulVerma29/Leetcode/tree/master/0120-triangle) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/MridulVerma29/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/MridulVerma29/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/MridulVerma29/Leetcode/tree/master/0075-sort-colors) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/MridulVerma29/Leetcode/tree/master/0502-ipo) |
@@ -662,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MridulVerma29/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/MridulVerma29/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
