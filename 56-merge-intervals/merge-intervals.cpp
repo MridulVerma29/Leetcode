@@ -6,9 +6,7 @@ public:
         vector<int> prev=intervals[0];
         int n=intervals.size();
         for(int i=1;i<n;i++){
-            if(intervals[i][0]<=prev[1]){
-                prev[1]=max(prev[1],intervals[i][1]);
-            }
+            if(intervals[i][0]<=prev[1]) prev[1]=max(prev[1],intervals[i][1]);
             else{
                 merge.push_back(prev);
                 prev=intervals[i];
