@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MridulVerma29/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MridulVerma29/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/MridulVerma29/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2460-apply-operations-to-an-array](https://github.com/MridulVerma29/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2747-count-zero-request-servers](https://github.com/MridulVerma29/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MridulVerma29/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MridulVerma29/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/MridulVerma29/Leetcode/tree/master/0289-game-of-life) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/MridulVerma29/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1920-build-array-from-permutation](https://github.com/MridulVerma29/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2460-apply-operations-to-an-array](https://github.com/MridulVerma29/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/MridulVerma29/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/MridulVerma29/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/MridulVerma29/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MridulVerma29/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2460-apply-operations-to-an-array](https://github.com/MridulVerma29/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MridulVerma29/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MridulVerma29/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
